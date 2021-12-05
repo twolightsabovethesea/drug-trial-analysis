@@ -16,3 +16,7 @@ The data used was provided by the University of Pennsylvania Data Analysis and V
 Data from a fictitious drug trial was cleaned, analyzed, and visualized using both Matplotlib and Pandas to reveal trends in the study outcomes for mice on 19 different drug regimens and a placebo group.  A brief written summary of three observations made about the data can be viewed in the top cell.
 
 ## Results
+
+Analysis of the data showed that Capomulin was likely the most promising drug in the trial.
+
+![Image](https://github.com/twolightsabovethesea/drug-trial-analysis/blob/main/images/tumor_volume.png)
